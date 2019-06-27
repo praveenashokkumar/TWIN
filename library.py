@@ -39,7 +39,7 @@ from functools import partial
 
 import missingno as msno
 from sklearn.metrics import pairwise_distances, euclidean_distances
-import fastdist
+#import fastdist
 from twin import compute_pca
 
 from utils import *
