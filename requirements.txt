@@ -7,7 +7,6 @@ seaborn
 cartoframes
 shapely
 geopandas
-bisect
 tqdm
 missingno
 ipywidgets
