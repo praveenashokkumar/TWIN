@@ -4,7 +4,7 @@ numpy
 pandas
 matplotlib
 seaborn
-cartoframes
+cartoframes==1.0b1 --pre
 shapely
 geopandas
 tqdm
