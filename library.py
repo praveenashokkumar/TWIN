@@ -16,7 +16,7 @@ from cartoframes.viz import *
 from cartoframes.viz.helpers import *
 from cartoframes.auth import set_default_context
 
-cc = CartoContext(base_url='https://dfan.carto.com', api_key='fe760da2e615ed7b6fb527939757107aefe0dad1')
+cc = CartoContext(base_url='https://dfan.carto.com', api_key='default_public')
 # dj=CartoContext()
 set_default_context(context=cc)
 
