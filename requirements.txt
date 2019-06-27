@@ -13,4 +13,4 @@ ipywidgets
 jupyter_contrib_nbextensions
 supermercado
 pygeotile
-pysal
+pysal==1.14.4
